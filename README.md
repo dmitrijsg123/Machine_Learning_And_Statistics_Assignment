@@ -5,7 +5,8 @@
 ## NBVIEWER
 You can view the notebook at the following URL:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg](https://nbviewer.org/github/dmitrijsg123/Machine_Learning_And_Statistics_Assignment/tree/main/)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/dmitrijsg123/Machine_Learning_And_Statistics_Assignment/tree/main/)
+
 
 ***
 This repository contains an overview of Scikit-learn and scipy-stats libraries in Jupyter Notebook.
