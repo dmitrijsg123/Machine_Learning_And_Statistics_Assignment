@@ -3,10 +3,13 @@
 ### This repository contains an overview of Scikit-learn and scipy-stats libraries
 
 ## NBVIEWER
-You can view the notebook at the following URL:
+You can view the notebook in static form by clicking this image:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/dmitrijsg123/Machine_Learning_And_Statistics_Assignment/tree/main/)
 
+You can view the notebook in dynamic form by clicking this image:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmitrijsg123/Machine_Learning_And_Statistics_Assignment/edit/main/HEAD)
 
 ***
 This repository contains an overview of Scikit-learn and scipy-stats libraries in Jupyter Notebook.
