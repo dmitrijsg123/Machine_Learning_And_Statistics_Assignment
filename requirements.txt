@@ -1,3 +1,20 @@
+Prerequisites for using Scikit-Learn library
+Before using scikit-learn latest release, the following is required ?
+    • Python (>=3.5)
+    • NumPy (>= 1.11.0)
+    • Scipy (>= 0.17.0)li
+    • Joblib (>= 0.11)
+    • Matplotlib (>= 1.5.1) is required for Sklearn plotting capabilities.
+    • Pandas (>= 0.18.0) is required for some of the scikit-learn examples using data structure and analysis.
 
-numpy
-matplotlib
+Installation
+If you already installed NumPy and Scipy, following are the two easiest ways to install scikit-learn ?
+Using pip
+Following command can be used to install scikit-learn via pip ?
+pip install -U scikit-learn
+Using conda
+Following command can be used to install scikit-learn via conda ?
+conda install scikit-learn
+On the other hand, if NumPy and Scipy is not yet installed on your Python workstation then, you can install them by using either pip or conda.
+Another option to use scikit-learn is to use Python distributions like Canopy and Anaconda because they both have the latest version of scikit-learn.
+
